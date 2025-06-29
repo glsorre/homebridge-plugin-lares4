@@ -2,7 +2,7 @@
   "name": "homebridge-plugin-lares4",
   "displayName": "Lares 4 Homebridge Plugin",
   "type": "module",
-  "version": "0.0.13-beta.6",
+  "version": "0.0.13-beta.7",
   "private": false,
   "description": "a homebridge plugin to expose Ksenia Lares 4 home automation systems on the Apple ecosystem",
   "author": "Giuseppe Sorrentino",
